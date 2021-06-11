@@ -23,7 +23,7 @@ while(True):
         else:                       # 오른족이 0이나 2일 경우
             y += 1
 
-for i in range(10):
+for i in range(10):     # 10번 반복
     for j in range(10):
         print(checkerboard[i][j], end=" ")
     print()
