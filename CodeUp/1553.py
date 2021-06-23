@@ -4,4 +4,5 @@ x = float(input())
 def f(key):
     key = -int(-key//1)
     return key
+print(f(x)) 
 print(f(x))
